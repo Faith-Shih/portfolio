@@ -5,7 +5,7 @@
 <br>
 ###  [基研生技 GeneLab Biotech 官網]<br>
 (https://your-username.github.io/genelab/)
-**Frontend** React | TailwindCSS | JavaScript | GSAP | Anime.js <br>
+**Frontend** React | CSS | JavaScript | GSAP | Anime.js <br>
 **Backend** Node.js | MySQL
 **說明：**  
 生技企業品牌官網作品，網站包含購物車及會員系統，員工後台系統。  
