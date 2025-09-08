@@ -17,4 +17,4 @@
 **Backend** 無，靜態網站
 **說明：**  
 汽車充電樁整合服務平台，介紹品牌服務內容及產品。  
-<img src="https://via.placeholder.com/600x300.png?text=Project+Preview" alt="GeneLab Biotech" width="600"/>
+<img src="./assets/voltedge-cover.png" alt="GeneLab Biotech" width="600"/>
